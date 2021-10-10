@@ -1,7 +1,7 @@
 # SeattleListings
-<h2>installations</h2>
+<h2>Installations</h2>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.
+ The Anaconda distribution of Python should be enough to run the code with no issues.
 
 <h2>Project Motivation</h2>
 
@@ -17,5 +17,11 @@ after exploring the data, I got curious about the following questions:
 
 - and building a model for Price Predections for listings
 
-description of file
-acknoweldgement
+<h2>Description of File</h2>
+
+A notebook is available to showcase work related to the above question. Markdown cells were used to assist in walking through the code.
+
+
+<h2>Acknoweldgement</h2>
+
+Credit goes to AirBnB for providing the dataset. You can find the Licensing for the data and other descriptive information at the Kaggle link available <a href="https://www.kaggle.com/airbnb/seattle/data" >here</a>. 
