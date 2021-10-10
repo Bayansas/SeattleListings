@@ -1,5 +1,5 @@
 # SeattleListings
-installations /n
+installations 
 
 project motivation
 description of file
