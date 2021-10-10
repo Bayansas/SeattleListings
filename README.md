@@ -1,5 +1,5 @@
 # SeattleListings
-<h1>installations<h1>
+<h1>installations</h1>
 
 project motivation
 
