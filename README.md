@@ -21,7 +21,7 @@ after exploring the data, I got curious about the following questions:
 
 A notebook is available to showcase work related to the above question. Markdown cells were used to assist in walking through the code.
 
-<h2>Summary of Analysis Results</h2>
+<h2>Summary of Analysis</h2>
 
 After analysing the data, I have got the following insights:
 
